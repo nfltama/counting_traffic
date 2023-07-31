@@ -18,7 +18,7 @@ import platform
 import shutil
 import time
 from pathlib import Path
-import cv2 as cv
+import cv2
 import torch
 import torch.backends.cudnn as cudnn
 
